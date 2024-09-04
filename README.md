@@ -13,3 +13,10 @@
 ## Which tools I am familiar with and use?
 
 *Debian-based Linux distributions: I am pretty familiar with Ubuntu, Linux Mint, Kali LInux, Debain 12 and Raspberry Pi OS, which are all based on Debian. I also have a Raspberry Pi, and I made some cool projects with it! I am also starting to get familiar with Arch Linux*
+
+## Which human languages do I know?:
+
+* *English (C1)*
+* *Russian (Fluent)*
+* *Ukrainian (Fluent)*
+* *French (A2*
