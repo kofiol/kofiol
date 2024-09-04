@@ -1,4 +1,4 @@
-# Welcome!
+# Hello!
 
 ## Who i am?:
 **I am 13 and I am a self-taught programmer and a Linux enthusiast.**
