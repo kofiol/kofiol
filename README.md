@@ -1,6 +1,6 @@
 # Hello!
 
-## Who i am?:
+## Who i am?
 **I am 13 and I am a self-taught programmer and a Linux enthusiast.**
 
 ## Which programming languages I know or learning?
