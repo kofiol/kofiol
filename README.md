@@ -6,7 +6,7 @@
 ## Which programming languages I know or learning?
 
 ### Python:
-*My first language. I can make Discord/Telegram bots, some backend and databases and 2D games*
+*My first language. I can make Discord/Telegram bots, some simple backend/database related stuff and 2D games*
 ### JavaScript ( + HTML and CSS)
 *I mastered HTML and CSS in the last few month, and JavaScript is the language i am learning actively right now.*
 
