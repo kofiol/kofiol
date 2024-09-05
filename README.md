@@ -24,6 +24,6 @@ I am planning to learn **Golang** and **C++** or **C#** in the future.
 ### **Linux:** 
 *I am pretty familiar with Ubuntu, Linux Mint, Kali LInux, Debain 12 and Raspberry Pi OS, which are all based on Debian. I also have a Raspberry Pi, and I made some cool projects with it! By the way, I am also starting to get familiar with Arch Linux*
 ### 
-### **AI's:** 
-*I am using different neural networks since 2022 and I could I am very experienced in it. ChatGPT, Claude AI, Gemini by Google, Perplexity, Llama, Mistral AI, MidJourney, SDXL, Dalle 2/3, and a countless amount of AIs I mastered through the past years.*
+### **Neural Networks:** 
+*I am using different neural networks since 2021 and I could I am very experienced in it. ChatGPT, Claude AI, Gemini by Google, Perplexity, Llama, Mistral AI, MidJourney, SDXL, Dalle 2/3, and a countless amount of AIs I mastered through the past years.*
 ### **Cryptocurrencies and blockchain**
