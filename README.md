@@ -12,11 +12,12 @@
 ## Which programming languages I know or learning?
 
 ### Python:
-*My first language. I can make Discord/Telegram bots, some simple backend/database related stuff, HTTP and API requests, and 2D games*
-### JavaScript ( + HTML and CSS)
-*I mastered HTML and CSS in the last few month, and JavaScript is the language I am learning actively right now. I can already make some basic web animations, games and simulations (one of which you can already check on my page)*
+My first language. I can make Discord/Telegram bots, some simple backend/database related stuff, HTTP and API requests, and 2D games
 
-I am planning to learn **Golang** and **C++** or **C#** in the future.
+### JavaScript ( + HTML and CSS)
+I mastered HTML and CSS in the last few month, and JavaScript is the language I am learning actively right now. I can already make some basic web animations, games and simulations (one of which you can already check on my page)
+
+*I am planning to learn* **Golang** *and* **C++** *or* **C#**.
 
 ## Which human languages do I know?
 
