@@ -3,6 +3,10 @@
 ## Who i am?
 **I am 13 and I am a self-taught programmer and a Linux enthusiast.**
 
+## How to contact me?
+
+[Discord](https://discord.com/users/1231256479731023892) | [Telegram](https://t.me/kofiol)
+
 **My personal website:** http://kofiol.xyz **(there is nothing yet)**
 
 ## Which programming languages I know or learning?
