@@ -35,4 +35,4 @@ I mastered HTML and CSS in the last few month, and JavaScript is the language I 
 *I am using different neural networks since 2021 and I could I am very experienced in it. ChatGPT, Claude AI, Gemini by Google, Perplexity, Llama, Mistral AI, MidJourney, SDXL, Dalle 2/3, and a countless amount of AIs I mastered through the past years.*
 ### **Cryptocurrencies and blockchain**
 
-## I am currnetly very busy with a huge secret project, and getting better at JavaScript.
+## I am quite busy doing Battle City (retro game from 1990) using Pygame (a comission from my friend), and getting better at JavaScript.
