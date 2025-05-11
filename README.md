@@ -1,34 +1,27 @@
 # Hello!
 
-## Who i am?
-**I am 13 and I am a self-taught programmer and a Linux enthusiast.**
-
-## How to contact me?
-
-**My personal website:** http://kofiol.xyz **(there is nothing yet)**
-
 ## Which programming languages I know or learning?
 
 ### Python:
-My first language. I can make Discord/Telegram bots, some simple backend/database related stuff, HTTP and API requests, and 2D games
+My first language. I can make Discord/Telegram bots, backend/database related apps, HTTP and API requests, Flask/Django apps, statistics/math.
 
 ### JavaScript ( + HTML and CSS)
-I have some knowledge HTML and CSS, and JavaScript is the language I am planning to learn in teh closest future. I can already make some basic web animations, games and simulations (one of which you can already check on my page)
+I can create complex static pages in HTML and CSS, simple React apps, and Node.js backend/telegram or discord bots.
 
-*I am planning to learn* **Golang** *and* **C++** *or* **C#**.
+### Go (Golang) 
+I am learning this language right now
 
 ## Which human languages do I know?
 
-### *English (C1)*
-### *Russian (Fluent)*
-### *Ukrainian (Fluent)*
-### *French (A2)*
+### *English (Fluent)*
+### *Russian (Native)*
+### *Ukrainian (FLuent)*
+### *French (B1-B2)*
 
 ## Which tools I am familiar with and use?
 
 ### **Linux:** 
-*I am pretty familiar with Ubuntu, Linux Mint, Kali LInux, Debain 12 and Raspberry Pi OS, which are all based on Debian. I also have a Raspberry Pi, and I made some cool projects with it! By the way, I am also starting to get familiar with Arch Linux*
-### 
+*I am familiar with Ubuntu, Linux Mint, Kali LInux, Debain 12, Raspberry Pi OS, Arch and Manjaro as well as Ubuntu Server. And, obviously, I know Windows and MacOS like the back of my hand.*
+
 ### **Neural Networks:** 
-*I am using different neural networks since 2021 and I could I am very experienced in it. ChatGPT, Claude AI, Gemini by Google, Perplexity, Llama, Mistral AI, MidJourney, SDXL, Dalle 2/3, and a countless amount of AIs I mastered through the past years.*
-### **Cryptocurrencies and blockchain**
+*I was learning and testing many AIs since late 2021 and I could say I am *very* experienced in AI and have profound knowledge of how it works. ChatGPT, Claude AI, Gemini by Google, Perplexity, Llama (local AIs), Mistral AI, MidJourney, SDXL, Dalle 2/3, and a countless amount of AIs I tried through the past years. I can also create AI-focused apps in Python and Node.js*
